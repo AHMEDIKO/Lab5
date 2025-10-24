@@ -56,8 +56,5 @@ class Student {
     }
     public String getPassword() {
         return Password;
-
-
-        
     }
 }
